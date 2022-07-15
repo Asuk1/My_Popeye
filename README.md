@@ -19,3 +19,10 @@ So I wanted to do it my self for my self-teaching.
 # Activity
 
 In pause since June. Will continue it when I will find a stage
+
+# Disclaimer
+EPITECH project are protected by the school to be private to prevent cheating from students of another promotion.
+Projects could be put on public if the following are respected:
+- Made after the deadline of the project. (It's actually the case)
+- Ereasing of a part of the project.
+- Big project that are too complicated and unique to be copied.
