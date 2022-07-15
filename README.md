@@ -18,4 +18,4 @@ So I wanted to do it my self for my self-teaching.
 
 # Activity
 
-In pause. Will continue it when I will find a stage
+In pause since June. Will continue it when I will find a stage
